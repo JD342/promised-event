@@ -1,6 +1,7 @@
 {
   "name": "promised-event",
   "description": "Simply get a promise for a specified event",
+  "keywords": ["event", "promise"],
   "version": "1.0.0",
   "main": "source/index.js",
   "scripts": {
