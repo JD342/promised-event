@@ -1,8 +1,9 @@
 {
   "name": "promised-event",
   "description": "Simply get a promise for a specified event",
+  "repository": "https://github.com/JD342/promised-event",
   "keywords": ["event", "promise"],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "source/index.js",
   "scripts": {
     "prepublish": "npm run test",
